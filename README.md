@@ -1,1 +1,1 @@
-# chatgpt-plugins
+# ChatGPT Plugins & Resources (updated regularly)
